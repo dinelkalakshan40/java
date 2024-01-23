@@ -5,5 +5,9 @@ public class A {
         for (int i=1; i<10; i++){
             System.out.println(i);
         }
+        int x =20;
+        int y =30;
+
+
     }
 }
